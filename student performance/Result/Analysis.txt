@@ -1,0 +1,17 @@
+comparision between reading_score and genders:
+The distribution of reading scores in your dataset will be displayed in the plot, with different colors denoting different genders, making it simple to visually compare the distributions of reading scores between various gender groups.According to the plot, more girls than boys received higher grades.
+
+comparision between math_score and race:
+This plot will help you visualize how math scores are distributed across different racial or ethnic groups in dataset, allowing for comparisons between these groups.According to the plot more no of student how got higher score belongs to group E and The least score student are only belongs to group C and B.
+
+comparision between writing_score and genders:
+You may compare writing scores across two genders using this graphic to see how they are distributed across gender in your dataset.The story claims that more girls than boys obtained higher marks, while only women received the lowest scores. 
+
+comparision between gender and test_preparation_score:
+With the help of this image, you can compare the distribution of people within each gender group who took and didn't take a preparatory course. The relative proportions and general distribution of different groupings are clearly visible thanks to the stacked bars.According to the plot, more girls than males did not finish the exam preparation course, however based on the plots above, females merely received higher grades.
+
+comparision between lunch and math_score:
+You may compare the two lunch groups' math scores using this graphic, which will help you see how the scores are spread throughout the groups.According to the plot, fewer children who had a normal meal had higher results than those who had a free or reduced lunch, and only free or reduced lunch students received the lowest scores.
+
+
+
